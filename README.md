@@ -11,11 +11,10 @@ Clean and preprocess a raw dataset with common data issues like missing values, 
 4. **Converted** date columns (`scheduledday`, `appointmentday`) to datetime.
 5. **Renamed** columns to lowercase with underscores.
 6. **Fixed** data types (`age` as int, IDs as string).
-7. **Saved** the cleaned file as `cleaned_medical_dataset.csv`.
 
 ## 📊 Tools Used
 - Python (Pandas)
-- Jupyter Notebook
+- Google Colab Notebook
 - GitHub for submission
 
 ## 🔗 Dataset
